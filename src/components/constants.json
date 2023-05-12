@@ -1,0 +1,11 @@
+{
+    "signIn": "Sign In",
+    "name":"Name",
+    "email":"Email",
+    "price":"Price",
+    "password":"Password",
+    "signUp": "Sign Up",
+    "confirmPassword":"Confirm Password",
+    "addToCart":"Add to cart"
+  }
+  
